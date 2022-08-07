@@ -1,0 +1,6 @@
+name: PlayerRightClickStick
+version: '${project.version}'
+main: me.codecraft.playerrightclickstick.Main
+api-version: 1.19
+authors: [ CodeCraft ]
+description: Send a message when player right clicks a stick
