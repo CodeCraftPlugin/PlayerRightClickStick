@@ -10,6 +10,7 @@ public final class Main extends JavaPlugin {
         // Plugin startup logic
         System.out.println("PlayerRightClickStick loaded");
         new PlayerRightClickStick(this);
+        //added a comment
 
     }
 
